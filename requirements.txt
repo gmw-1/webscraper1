@@ -1,1 +1,12 @@
-
+streamlit
+pandas
+numpy
+requests
+bs4
+selenium
+selenium.webdriver.chrome.options
+datetime
+json
+os
+dotenv
+plotly.express
